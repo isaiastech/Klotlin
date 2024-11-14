@@ -1,3 +1,5 @@
+package klotlinBasico
+
 fun main(args: Array<String>) {
     print("Digite o valor de x? ")
     val x = readLine()?.toInt()!!

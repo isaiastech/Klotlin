@@ -1,4 +1,4 @@
-
+package klotlinBasico
 
 fun main() {
     print("Escolha um número entre 0 e 6? ")

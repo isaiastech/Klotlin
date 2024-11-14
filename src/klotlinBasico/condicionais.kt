@@ -1,3 +1,5 @@
+package klotlinBasico
+
 fun main(args: Array<String>) {
    print("Digite sua nota: ")
     val x = readLine()?.toInt()!!

@@ -1,3 +1,5 @@
+package klotlinBasico
+
 fun main() {
     val nome = listOf("Isaias", "pedro", "ivo", "João Carlos")
     println("$nome")

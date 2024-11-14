@@ -1,3 +1,5 @@
+package estruturaRepeticao
+
 fun main() {
     val number = arrayListOf<Int>()
     var tamanho = 0

@@ -8,4 +8,12 @@ fun main() {
 
     val Suco:MutableMap<String, Int> = mutableMapOf("laranja" to 50, "Banana" to 45, )
     println(Suco)
+
+    val color = arrayListOf("red", "white", "blue")
+    color.add("green")
+    color.add("yellow")
+    color.remove("white")
+    println(color)
+
+
 }

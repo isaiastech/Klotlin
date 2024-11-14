@@ -14,6 +14,7 @@ fun main() {
     color.add("yellow")
     color.remove("white")
     println(color)
+    
 
 
 }
